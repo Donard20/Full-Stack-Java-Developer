@@ -23,7 +23,7 @@ Full Stack Learning Java developer - Core Java + JSP Servlets + Hibernate +Sprin
    
 ---
 
-## 📊 Discussing about:
+## 📊 What I will learn on this training based on their description:
 - [x] Java programming language
 - [x] Build a fully functioning web application through a simplistic step from a professional trainer.
 - [x] Learn Java server pages, servlets, and JSTL from the basics to advance
