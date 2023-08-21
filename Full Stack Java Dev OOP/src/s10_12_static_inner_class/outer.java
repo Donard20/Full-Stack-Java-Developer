@@ -5,8 +5,11 @@ public class outer {
 	// class of inner
 	public static class Inner {
 		
+		// property inside Inner Class
+		public static int x = 0;
+		
 		// method for testing in inner class
-		public void testingInnermethod() {
+		public static void testingInnermethod() {
 			System.out.println("Test");
 			
 		}
